@@ -1,0 +1,13 @@
+cc ss 4 qq 47 ms 5 cd 70 dc
+cc ss 4 qq 47 ms 5 cd 70 dc
+cc ss 4 qq 47 ms 5 cd 10 dc
+cc ss 4 qq 47 ms 5 cd 2 dc
+cc ss 4 qq 47 ms 5 cd 70 dc
+cc ss 4 qq 47 ms 5 cd 70 dc
+cc ss 4 qq 47 ms 5 cd 70 dc
+cc ss 4 qq 47 ms 5 cd 70 dc
+cc ss 4 qq 47 ms 5 cd 2 dc
+cc ss 4 qq 47 ms 5 cd 10 dc
+cc ss 4 qq 47 ms 5 cd 2 dc
+cc ss 4 qq 47 ms 5 cd 75 dc
+
